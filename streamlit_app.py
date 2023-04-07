@@ -2,6 +2,7 @@ import streamlit
 import pandas
 import requests
 streamlit.title("test the changes again");
+streamlit.stop();
 
 streamlit.header('Breakfast Menu')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
